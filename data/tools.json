@@ -1,0 +1,749 @@
+[
+  {
+    "name": "wechat-data-tools",
+    "url": "https://github.com/Agentchengfeng/wechat-data-tools",
+    "stars": 80,
+    "language": "Python",
+    "license": "",
+    "description_en": "Monitors WeChat Official Account articles, fetches engagement data, and generates visual reports.",
+    "category": "analytics"
+  },
+  {
+    "name": "wechat_articles_spider",
+    "url": "https://github.com/ghh1251/wechat_articles_spider",
+    "stars": 341,
+    "language": "Python",
+    "license": "MIT",
+    "description_en": "Crawls WeChat Official Account public articles for collection and analysis without packet capture.",
+    "category": "analytics"
+  },
+  {
+    "name": "WeChatDataAnalysis",
+    "url": "https://github.com/LifeArchiveProject/WeChatDataAnalysis",
+    "stars": 1516,
+    "language": "Python",
+    "license": "",
+    "description_en": "Decrypts WeChat 4.x data and generates annual summaries, chat records, and Moments exports for analysis.",
+    "category": "analytics"
+  },
+  {
+    "name": "WeChat-Data-Analysis",
+    "url": "https://github.com/allen1881996/WeChat-Data-Analysis",
+    "stars": 463,
+    "language": "Python",
+    "license": "MIT",
+    "description_en": "Extracts and analyzes iPhone and MacBook WeChat chat history from local databases.",
+    "category": "analytics"
+  },
+  {
+    "name": "sentry-miniapp",
+    "url": "https://github.com/lizhiyao/sentry-miniapp",
+    "stars": 667,
+    "language": "TypeScript",
+    "license": "MIT",
+    "description_en": "SDK for error and performance monitoring of WeChat Mini Programs and other mini-app platforms.",
+    "category": "analytics"
+  },
+  {
+    "name": "clickstream-wechat",
+    "url": "https://github.com/awslabs/clickstream-wechat",
+    "stars": 5,
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "description_en": "AWS Clickstream analytics SDK for WeChat Mini Programs.",
+    "category": "analytics"
+  },
+  {
+    "name": "mini-program-monitor",
+    "url": "https://github.com/SkyAPM/mini-program-monitor",
+    "stars": 8,
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "description_en": "Apache SkyWalking monitoring client for WeChat and Alipay Mini Programs.",
+    "category": "analytics"
+  },
+  {
+    "name": "wechat-data-analysis",
+    "url": "https://github.com/yanzhenjia/wechat-data-analysis",
+    "stars": 1,
+    "language": "Python",
+    "license": "MIT",
+    "description_en": "Local analytics tool for WeChat Official Account articles.",
+    "category": "analytics"
+  },
+  {
+    "name": "miniprogram-ci",
+    "url": "https://www.npmjs.com/package/miniprogram-ci",
+    "stars": 0,
+    "language": "JavaScript",
+    "license": "",
+    "description_en": "Official Tencent package for building, uploading, previewing, and publishing WeChat Mini Programs from the command line without the WeChat DevTools GUI.",
+    "category": "miniprogram"
+  },
+  {
+    "name": "miniprogram-automator",
+    "url": "https://www.npmjs.com/package/miniprogram-automator",
+    "stars": 0,
+    "language": "JavaScript",
+    "license": "",
+    "description_en": "Official Tencent SDK that automates the WeChat DevTools to launch WeChat Mini Programs and simulate user actions for testing.",
+    "category": "miniprogram"
+  },
+  {
+    "name": "mini-ci",
+    "url": "https://github.com/ruochuan12/mini-ci",
+    "stars": 220,
+    "language": "TypeScript",
+    "license": "MIT",
+    "description_en": "Enhanced CLI wrapper around the official miniprogram-ci supporting batch and multi-project WeChat Mini Program upload, preview, and configuration-driven CI workflows.",
+    "category": "miniprogram"
+  },
+  {
+    "name": "miniprogram-automator-extension",
+    "url": "https://github.com/nchejara/miniprogram-automator-extension",
+    "stars": 13,
+    "language": "JavaScript",
+    "license": "",
+    "description_en": "Functional extension library that simplifies end-to-end testing of WeChat Mini Programs with the official miniprogram-automator.",
+    "category": "miniprogram"
+  },
+  {
+    "name": "wx-ci",
+    "url": "https://github.com/jaluik/wx-ci",
+    "stars": 18,
+    "language": "TypeScript",
+    "license": "MIT",
+    "description_en": "One-click command-line script for packaging, uploading, and previewing WeChat Mini Programs without opening WeChat DevTools.",
+    "category": "miniprogram"
+  },
+  {
+    "name": "miniprogram-deploy",
+    "url": "https://github.com/sunxiuguo/miniprogram-deploy",
+    "stars": 26,
+    "language": "TypeScript",
+    "license": "",
+    "description_en": "Automation tool that wraps miniprogram-ci to upload and preview WeChat Mini Programs.",
+    "category": "miniprogram"
+  },
+  {
+    "name": "actions.mini-program",
+    "url": "https://github.com/echoings/actions.mini-program",
+    "stars": 14,
+    "language": "TypeScript",
+    "license": "MIT",
+    "description_en": "GitHub Action that wraps miniprogram-ci for automated WeChat Mini Program preview and upload in CI/CD pipelines.",
+    "category": "miniprogram"
+  },
+  {
+    "name": "miniprogram-remote-control",
+    "url": "https://github.com/LSTM-Kirigaya/miniprogram-remote-control",
+    "stars": 3,
+    "language": "JavaScript",
+    "license": "",
+    "description_en": "CLI remote-control wrapper around miniprogram-automator to automate clicks, text input, screenshots, tab switching, and relaunching of WeChat Mini Programs.",
+    "category": "miniprogram"
+  },
+  {
+    "category": "multi-platform",
+    "description_en": "A Markdown editor and social-platform publisher that converts Markdown into WeChat-optimized rich text for one-click publishing to WeChat Official Accounts and other social platforms.",
+    "language": "JavaScript",
+    "license": "MIT",
+    "name": "mdeditor",
+    "stars": 668,
+    "url": "https://github.com/xiaobox/mdeditor"
+  },
+  {
+    "category": "multi-platform",
+    "description_en": "A Chrome extension that converts self-written or captured web articles to Markdown and uses DOM automation to publish them to WeChat Official Accounts, Juejin, CSDN, Zhihu, and other platforms.",
+    "language": "TypeScript",
+    "license": "MIT",
+    "name": "SyncCaster",
+    "stars": 431,
+    "url": "https://github.com/RyanYipeng/SyncCaster"
+  },
+  {
+    "category": "multi-platform",
+    "description_en": "An Obsidian plugin that formats notes once and distributes them to WeChat, Zhihu, XiaoHongShu, and Twitter.",
+    "language": "TypeScript",
+    "license": "MIT",
+    "name": "lovpen-obsidian",
+    "stars": 11,
+    "url": "https://github.com/MarkShawn2020/lovpen-obsidian"
+  },
+  {
+    "category": "multi-platform",
+    "description_en": "A multi-platform article publisher that posts articles to Juejin, WeChat, Toutiao, Zhihu, and tech blogs.",
+    "language": "JavaScript",
+    "license": "MIT",
+    "name": "mulit-article-publisher",
+    "stars": 8,
+    "url": "https://github.com/meijintao233/mulit-article-publisher"
+  },
+  {
+    "category": "multi-platform",
+    "description_en": "A command-line tool that publishes content to X/Twitter, LinkedIn, WeChat Official Accounts, and Xiaohongshu.",
+    "language": "Python",
+    "license": "MIT",
+    "name": "multi-platform-publisher",
+    "stars": 6,
+    "url": "https://github.com/mguozhen/multi-platform-publisher"
+  },
+  {
+    "category": "multi-platform",
+    "description_en": "An Obsidian plugin that one-clicks to publish Markdown notes to WeChat Official Accounts, Zhihu, Toutiao, and Xiaohongshu.",
+    "language": "TypeScript",
+    "license": "MIT",
+    "name": "obsidian-md-publisher",
+    "stars": 2,
+    "url": "https://github.com/volcanicll/obsidian-md-publisher"
+  },
+  {
+    "category": "multi-platform",
+    "description_en": "An Obsidian plugin that publishes Markdown notes directly as drafts to WeChat Official Accounts.",
+    "language": "JavaScript",
+    "license": "MIT",
+    "name": "wechat-publisher",
+    "stars": 2,
+    "url": "https://github.com/RanceLee233/wechat-publisher"
+  },
+  {
+    "category": "multi-platform",
+    "description_en": "A tool that finds articles in Notion and automatically sends them to WeChat Official Account drafts.",
+    "language": "JavaScript",
+    "license": "",
+    "name": "Notion2wechatMP",
+    "stars": 1,
+    "url": "https://github.com/royrenwb/Notion2wechatMP"
+  },
+  {
+    "name": "wxauto",
+    "url": "https://github.com/cluic/wxauto",
+    "stars": 7151,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "description_en": "Automates the Windows WeChat desktop client for sending and receiving messages and building simple WeChat bots.",
+    "category": "browser-rpa"
+  },
+  {
+    "name": "pywechat",
+    "url": "https://github.com/Hello-Mr-Crab/pywechat",
+    "stars": 1658,
+    "language": "Python",
+    "license": "",
+    "description_en": "Automates the Windows WeChat desktop client via pywinauto to perform most PC WeChat operations.",
+    "category": "browser-rpa"
+  },
+  {
+    "name": "WeChatMediaPlatformAutomation",
+    "url": "https://github.com/LinusLing/WeChatMediaPlatformAutomation",
+    "stars": 214,
+    "language": "JavaScript",
+    "license": "MIT",
+    "description_en": "Publishes or previews articles on the WeChat Official Account web platform (mp.weixin.qq.com) using Puppeteer.",
+    "category": "browser-rpa"
+  },
+  {
+    "name": "robotic-process-automation",
+    "url": "https://github.com/yihleego/robotic-process-automation",
+    "stars": 308,
+    "language": "Java",
+    "license": "MIT",
+    "description_en": "Java RPA framework for automating WeChat and WeCom desktop clients.",
+    "category": "browser-rpa"
+  },
+  {
+    "name": "WeChatAuto.SDK",
+    "url": "https://github.com/scottfly189/WeChatAuto.SDK",
+    "stars": 188,
+    "language": "C#",
+    "license": "MIT",
+    "description_en": ".NET UI-automation SDK for WeChat RPA, supporting messaging, group/friend management, and Moments operations.",
+    "category": "browser-rpa"
+  },
+  {
+    "name": "agent-wechat",
+    "url": "https://github.com/thisnick/agent-wechat",
+    "stars": 110,
+    "language": "Rust",
+    "license": "",
+    "description_en": "RPA-based WeChat automation tool written in Rust.",
+    "category": "browser-rpa"
+  },
+  {
+    "name": "wechat-rpa-bot-skill",
+    "url": "https://github.com/LeoMusk/wechat-rpa-bot-skill",
+    "stars": 65,
+    "language": "Python",
+    "license": "",
+    "description_en": "WeChat RPA skill for AI agents, supporting headless operation and REST API control.",
+    "category": "browser-rpa"
+  },
+  {
+    "name": "wechat-daily-report-bot",
+    "url": "https://github.com/perrycan/wechat-daily-report-bot",
+    "stars": 34,
+    "language": "Python",
+    "license": "MIT",
+    "description_en": "Automates daily work-report roll-call in WeChat groups using wxauto and FastAPI.",
+    "category": "browser-rpa"
+  },
+  {
+    "name": "wechat-publisher",
+    "url": "https://github.com/jiji262/wechat-publisher",
+    "stars": 132,
+    "language": "HTML",
+    "license": "",
+    "description_en": "A Claude Code/Codex/Cursor skill and CLI that researches topics, writes 3000-5000 word WeChat articles, generates images, and publishes drafts to WeChat Official Accounts.",
+    "category": "ai-writing"
+  },
+  {
+    "name": "ai-wechat",
+    "url": "https://github.com/YuppyChen/ai-wechat",
+    "stars": 60,
+    "language": "TypeScript",
+    "license": "",
+    "description_en": "A Claude Code-based workflow for creating and publishing WeChat Official Account articles from ideas through Markdown drafting, formatting, and HTML publishing.",
+    "category": "ai-writing"
+  },
+  {
+    "name": "wechat-ai-publisher",
+    "url": "https://github.com/bbwdadfg/wechat-ai-publisher",
+    "stars": 37,
+    "language": "Shell",
+    "license": "MIT",
+    "description_en": "An agent skill that collects AI trends, writes WeChat Official Account articles, generates images, and publishes drafts to WeChat.",
+    "category": "ai-writing"
+  },
+  {
+    "name": "fengyun-publish",
+    "url": "https://github.com/duliangkuan/fengyun-publish",
+    "stars": 20,
+    "language": "Python",
+    "license": "MIT",
+    "description_en": "A 19-step end-to-end AI pipeline for WeChat Official Accounts that picks topics, researches, writes, reviews, lays out, and pushes drafts.",
+    "category": "ai-writing"
+  },
+  {
+    "name": "wechat-article-agent",
+    "url": "https://github.com/ymstar/wechat-article-agent",
+    "stars": 7,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "description_en": "A LangChain/LangGraph agent that researches a topic, writes an article, creates a cover image, audits content, and publishes to a WeChat Official Account draft box.",
+    "category": "ai-writing"
+  },
+  {
+    "name": "wechat-article-generator",
+    "url": "https://github.com/icebear0828/wechat-article-generator",
+    "stars": 7,
+    "language": "Python",
+    "license": "",
+    "description_en": "An end-to-end WeChat Official Account article pipeline that uses AI to write, generate images, censor sensitive words, render WeChat-compatible HTML, and copy it for posting.",
+    "category": "ai-writing"
+  },
+  {
+    "name": "wechat-article-writing-skill",
+    "url": "https://github.com/AlexLaoBai/wechat-article-writing-skill",
+    "stars": 4,
+    "language": "Python",
+    "license": "MIT",
+    "description_en": "A WeChat Official Account automated writing and publishing skill with auto and guided modes, multiple themes, and one-click draft push.",
+    "category": "ai-writing"
+  },
+  {
+    "name": "weblog-skills",
+    "url": "https://github.com/szsip239/weblog-skills",
+    "stars": 4,
+    "language": "JavaScript",
+    "license": "",
+    "description_en": "A Markdown-to-WeChat publishing skill with AI style writing, doocs/md HTML rendering, AI humanization, and one-click draft push.",
+    "category": "ai-writing"
+  },
+  {
+    "name": "wechat-publisher",
+    "url": "https://github.com/sakuraoxo-clio/wechat-publisher",
+    "stars": 77,
+    "language": "TypeScript",
+    "license": "MIT",
+    "description_en": "Claude/Coex skill that converts articles into WeChat-compliant HTML, uploads images, optionally generates AI covers, and pushes one-click drafts to the WeChat Official Account draft box.",
+    "category": "auto-publishing"
+  },
+  {
+    "name": "wechat-publisher-mcp",
+    "url": "https://github.com/BobGod/wechat-publisher-mcp",
+    "stars": 49,
+    "language": "JavaScript",
+    "license": "MIT",
+    "description_en": "MCP server dedicated to WeChat Official Account article publishing, exposing Markdown-to-WeChat-HTML conversion, cover handling, preview/formal publishing, and status queries to MCP-compatible AI tools.",
+    "category": "auto-publishing"
+  },
+  {
+    "name": "wechat-publisher",
+    "url": "https://github.com/0731coderlee-sudo/wechat-publisher",
+    "stars": 41,
+    "language": "Shell",
+    "license": "MIT",
+    "description_en": "OpenClaw/CLI skill that converts Markdown into styled WeChat HTML and publishes it to the WeChat Official Account draft box with automatic image hosting and multiple code-highlight themes.",
+    "category": "auto-publishing"
+  },
+  {
+    "name": "wechat-publisher",
+    "url": "https://github.com/xiaonan0527/wechat-publisher",
+    "stars": 13,
+    "language": "JavaScript",
+    "license": "",
+    "description_en": "Standalone OpenClaw skill that converts Markdown to WeChat-compatible inline-style HTML and pushes drafts via the WeChat Official Account API with automatic image upload and optional cover generation.",
+    "category": "auto-publishing"
+  },
+  {
+    "name": "wechat-publisher",
+    "url": "https://github.com/penxxy/wechat-publisher",
+    "stars": 9,
+    "language": "Python",
+    "license": "MIT",
+    "description_en": "Python SDK for WeChat Official Account development that supports article publishing, image upload, batch publishing, and access-token caching.",
+    "category": "auto-publishing"
+  },
+  {
+    "name": "ai-news-wechat-publisher",
+    "url": "https://github.com/xiaomi158/ai-news-wechat-publisher",
+    "stars": 6,
+    "language": "HTML",
+    "license": "",
+    "description_en": "Automated AI-news publishing pipeline that scrapes RSS feeds, summarizes and categorizes stories with DeepSeek, and posts formatted articles to a WeChat Official Account on a schedule.",
+    "category": "auto-publishing"
+  },
+  {
+    "name": "wechaty",
+    "url": "https://github.com/wechaty/wechaty",
+    "stars": 22889,
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "description_en": "Conversational RPA SDK that lets developers build chatbots for WeChat and other messaging platforms.",
+    "category": "bots"
+  },
+  {
+    "name": "WeChatFerry",
+    "url": "https://github.com/lich0821/WeChatFerry",
+    "stars": 6748,
+    "language": "C++",
+    "license": "MIT",
+    "description_en": "WeChat hook-based robot framework that can integrate DeepSeek, Gemini, ChatGPT, ChatGLM and other large models.",
+    "category": "bots"
+  },
+  {
+    "name": "CowAgent",
+    "url": "https://github.com/zhayujie/CowAgent",
+    "stars": 45760,
+    "language": "Python",
+    "license": "MIT",
+    "description_en": "Open-source AI assistant and agent harness (formerly chatgpt-on-wechat) that supports multi-channel deployment including WeChat.",
+    "category": "bots"
+  },
+  {
+    "name": "ItChat",
+    "url": "https://github.com/littlecodersh/ItChat",
+    "stars": 26472,
+    "language": "Python",
+    "license": "MIT",
+    "description_en": "Complete and graceful API for WeChat personal accounts that enables building a personal WeChat bot in a few dozen lines of code.",
+    "category": "bots"
+  },
+  {
+    "name": "wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "stars": 11130,
+    "language": "JavaScript",
+    "license": "MIT",
+    "description_en": "WeChat bot built on WeChaty that connects ChatGPT, Claude, Kimi, DeepSeek and Ollama to auto-reply messages and manage groups/friends.",
+    "category": "bots"
+  },
+  {
+    "name": "ChatGPT-wechat-bot",
+    "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "stars": 4720,
+    "language": "TypeScript",
+    "license": "MIT",
+    "description_en": "ChatGPT bot for WeChat that deploys OpenAI conversations through the Wechaty framework.",
+    "category": "bots"
+  },
+  {
+    "name": "wechat-gptbot",
+    "url": "https://github.com/iuiaoin/wechat-gptbot",
+    "stars": 609,
+    "language": "Python",
+    "license": "MIT",
+    "description_en": "Stable WeChat robot based on ChatGPT designed for low-risk personal-account automation.",
+    "category": "bots"
+  },
+  {
+    "name": "BotFramework-WeChat",
+    "url": "https://github.com/microsoft/BotFramework-WeChat",
+    "stars": 69,
+    "language": "C#",
+    "license": "MIT",
+    "description_en": "Adapter that enables Microsoft BotFramework bots to send and receive messages on WeChat.",
+    "category": "bots"
+  },
+  {
+    "name": "wecom-bot-mcp-server",
+    "url": "https://github.com/loonghao/wecom-bot-mcp-server",
+    "stars": 96,
+    "language": "Python",
+    "license": "MIT",
+    "description_en": "An MCP server that exposes tools for AI assistants to send messages, files, images, and template-card notifications to WeCom/Enterprise WeChat group chats via the official bot webhook API.",
+    "category": "wecom"
+  },
+  {
+    "name": "go-wecom",
+    "url": "https://github.com/wenerme/go-wecom",
+    "stars": 98,
+    "language": "Go",
+    "license": "Apache-2.0",
+    "description_en": "A Go SDK for WeChat Work that wraps over 500 generated API endpoints across 37 functional categories to build Enterprise WeChat automations.",
+    "category": "wecom"
+  },
+  {
+    "name": "wecom-cli",
+    "url": "https://github.com/WecomTeam/wecom-cli",
+    "stars": 2400,
+    "language": "Rust",
+    "license": "MIT",
+    "description_en": "An official-style command-line interface for Enterprise WeChat that lets humans and AI agents operate WeCom from the terminal, including messaging, contacts, tasks, and meetings.",
+    "category": "wecom"
+  },
+  {
+    "name": "wecombot",
+    "url": "https://github.com/voidint/wecombot",
+    "stars": 9,
+    "language": "Go",
+    "license": "MIT",
+    "description_en": "A lightweight Go SDK for WeCom group chat robots that sends text, Markdown, images, files, voice, news, and template-card messages with zero third-party dependencies.",
+    "category": "wecom"
+  },
+  {
+    "name": "wechat_work_webhook_rb",
+    "url": "https://github.com/mqzhang/wechat_work_webhook_rb",
+    "stars": 4,
+    "language": "Ruby",
+    "license": "MIT",
+    "description_en": "A Ruby client for Enterprise WeChat group chat bot webhooks supporting text, Markdown, image, news article, and file message types.",
+    "category": "wecom"
+  },
+  {
+    "name": "LangBot",
+    "url": "https://github.com/langbot-app/LangBot",
+    "stars": 16600,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "description_en": "A production-grade multi-platform chatbot framework that supports Enterprise WeChat/WeCom, enabling AI agent customer service and workflow integrations with n8n/Dify.",
+    "category": "wecom"
+  },
+  {
+    "category": "cli",
+    "description_en": "A command-line tool that queries local WeChat data—chat history, contacts, sessions, and favorites—for LLM integration and analysis.",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "name": "wechat-cli",
+    "stars": 1499,
+    "url": "https://github.com/huohuoer/wechat-cli"
+  },
+  {
+    "category": "cli",
+    "description_en": "A non-GUI personal WeChat client framework with an plugin-based HTTP API for automation and chatbot development.",
+    "language": "Perl",
+    "license": "MIT",
+    "name": "Mojo-Weixin",
+    "stars": 1251,
+    "url": "https://github.com/hexsum/Mojo-Weixin"
+  },
+  {
+    "category": "cli",
+    "description_en": "A command-line tool to decrypt and query WeChat macOS local databases for contacts, messages, and sessions.",
+    "language": "Rust",
+    "license": "MIT",
+    "name": "wx-cli",
+    "stars": 103,
+    "url": "https://github.com/pandorafuture/wx-cli"
+  },
+  {
+    "category": "cli",
+    "description_en": "A CLI for interacting with a WeChat iLink bot to send, receive, and manage WeChat messages from the terminal.",
+    "language": "Rust",
+    "license": "MIT",
+    "name": "wechat-cli",
+    "stars": 22,
+    "url": "https://github.com/systemxlabs/wechat-cli"
+  },
+  {
+    "category": "cli",
+    "description_en": "An iLink bot management tool providing a command-line interface and web dashboard for WeChat automation.",
+    "language": "Rust",
+    "license": "",
+    "name": "clawbot",
+    "stars": 30,
+    "url": "https://github.com/adysec/clawbot"
+  },
+  {
+    "category": "cli",
+    "description_en": "A WeChat bot that lets you remotely control the Claude Code CLI to execute commands and manage projects from your phone.",
+    "language": "Python",
+    "license": "GPL-3.0",
+    "name": "Wechat-Claude-bot",
+    "stars": 33,
+    "url": "https://github.com/mrliuzhiyu/Wechat-Claude-bot"
+  },
+  {
+    "category": "cli",
+    "description_en": "A cross-platform command-line wrapper for invoking the WeChat MiniProgram developer tools in Node.js and npm projects.",
+    "language": "TypeScript",
+    "license": "MIT",
+    "name": "wechat-devtool",
+    "stars": 6,
+    "url": "https://github.com/NewFuture/wechat-devtool"
+  },
+  {
+    "name": "doocs/md",
+    "url": "https://github.com/doocs/md",
+    "stars": 12946,
+    "language": "TypeScript",
+    "license": "WTFPL",
+    "description_en": "Concise WeChat Markdown editor with custom themes, content management, multi-image hosting, and AI assistance.",
+    "category": "media"
+  },
+  {
+    "name": "markdown-nice",
+    "url": "https://github.com/mdnice/markdown-nice",
+    "stars": 4647,
+    "language": "JavaScript",
+    "license": "GPL-3.0",
+    "description_en": "Markdown editor with theme design for producing nicely formatted articles, commonly used for WeChat official accounts.",
+    "category": "media"
+  },
+  {
+    "name": "wechat-format",
+    "url": "https://github.com/lyricat/wechat-format",
+    "stars": 4535,
+    "language": "JavaScript",
+    "license": "",
+    "description_en": "WeChat Official Account layout editor that converts Markdown to WeChat-specific HTML.",
+    "category": "media"
+  },
+  {
+    "name": "online-markdown",
+    "url": "https://github.com/barretlee/online-markdown",
+    "stars": 921,
+    "language": "JavaScript",
+    "license": "Other",
+    "description_en": "Online markdown converter specially designed for WeChat public account formatting.",
+    "category": "media"
+  },
+  {
+    "name": "silk-v3-decoder",
+    "url": "https://github.com/kn007/silk-v3-decoder",
+    "stars": 3154,
+    "language": "C",
+    "license": "MIT",
+    "description_en": "Decodes Silk v3 audio files from WeChat/QQ and converts them to formats such as MP3.",
+    "category": "media"
+  },
+  {
+    "name": "xiaohu-wechat-format",
+    "url": "https://github.com/xiaohuailabs/xiaohu-wechat-format",
+    "stars": 644,
+    "language": "Python",
+    "license": "",
+    "description_en": "Claude Code skill for one-click WeChat official account formatting and publishing, converting Markdown to WeChat-compatible HTML drafts.",
+    "category": "media"
+  },
+  {
+    "name": "weui",
+    "url": "https://github.com/Tencent/weui",
+    "stars": 27387,
+    "language": "HTML/CSS",
+    "license": "Other",
+    "description_en": "Official WeChat UI library by Tencent for mobile web applications.",
+    "category": "sdk"
+  },
+  {
+    "name": "EasyWeChat",
+    "url": "https://github.com/w7corp/easywechat",
+    "stars": 10373,
+    "language": "PHP",
+    "license": "MIT",
+    "description_en": "PHP SDK for WeChat official account and mini program development.",
+    "category": "sdk"
+  },
+  {
+    "name": "wechatpy",
+    "url": "https://github.com/wechatpy/wechatpy",
+    "stars": 4291,
+    "language": "Python",
+    "license": "MIT",
+    "description_en": "Python SDK for WeChat official account, mini program, and payment APIs.",
+    "category": "sdk"
+  },
+  {
+    "name": "wechat-python-sdk",
+    "url": "https://github.com/doraemonext/wechat-python-sdk",
+    "stars": 1348,
+    "language": "Python",
+    "license": "BSD-2-Clause",
+    "description_en": "Python development kit for the WeChat public platform (deprecated).",
+    "category": "sdk"
+  },
+  {
+    "name": "vConsole",
+    "url": "https://github.com/Tencent/vConsole",
+    "stars": 17494,
+    "language": "TypeScript",
+    "license": "Other",
+    "description_en": "Lightweight, extendable front-end developer tool for debugging mobile web pages inside WeChat webview.",
+    "category": "cli"
+  },
+  {
+    "name": "wechat-spider (bowenpay)",
+    "url": "https://github.com/bowenpay/wechat-spider",
+    "stars": 3354,
+    "language": "Python",
+    "license": "",
+    "description_en": "WeChat official account spider for crawling public account articles and metadata.",
+    "category": "cli"
+  },
+  {
+    "name": "wechat-spider (striver-ing)",
+    "url": "https://github.com/striver-ing/wechat-spider",
+    "stars": 2872,
+    "language": "Python",
+    "license": "",
+    "description_en": "Open-source WeChat spider that crawls articles, views, likes, and comments from official accounts.",
+    "category": "cli"
+  },
+  {
+    "name": "wechat_spider (lqqyt2423)",
+    "url": "https://github.com/lqqyt2423/wechat_spider",
+    "stars": 1538,
+    "language": "JavaScript",
+    "license": "MIT",
+    "description_en": "WeChat spider that fetches article content, views, likes, comments, and historical article links.",
+    "category": "cli"
+  },
+  {
+    "name": "wx-manage",
+    "url": "https://github.com/niefy/wx-manage",
+    "stars": 0,
+    "language": "Java",
+    "license": "",
+    "description_en": "WeChat Official Account management backend based on Spring Boot and Vue.",
+    "category": "auto-publishing"
+  },
+  {
+    "name": "wechat-article-publisher-skill",
+    "url": "https://skillsmp.com/creators/iamzifei/wechat-article-publisher-skill/skills-wechat-article-publisher",
+    "stars": 0,
+    "language": "—",
+    "license": "",
+    "description_en": "Claude/Codex skill for publishing WeChat articles via skillsmp.com.",
+    "category": "auto-publishing"
+  }
+]
