@@ -168,6 +168,7 @@ WeChat Official Account automation spans publishing, content formatting, media m
 | [clawbot](https://github.com/adysec/clawbot) | 30 | Rust | An iLink bot management tool providing a command-line interface and web dashboard for WeChat automation. | — |
 | [wechat-cli](https://github.com/systemxlabs/wechat-cli) | 22 | Rust | A CLI for interacting with a WeChat iLink bot to send, receive, and manage WeChat messages from the terminal. | MIT |
 | [wechat-devtool](https://github.com/NewFuture/wechat-devtool) | 6 | TypeScript | A cross-platform command-line wrapper for invoking the WeChat MiniProgram developer tools in Node.js and npm projects. | MIT |
+| [ReadGZH](https://github.com/sweesama/readgzh) | 4 | TypeScript | Converts WeChat Official Account articles into clean Markdown for AI clients via REST API and MCP (`api.readgzh.site`). | AGPL-3.0 |
 
 ## Quick Selection Guide
 
